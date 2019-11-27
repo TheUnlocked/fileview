@@ -1,7 +1,7 @@
 # fileview
  View a file... as an image!
 
-## Sources
+## Executables
 (as of inital release)
 ### FileView.exe in RGB
 ![](https://i.imgur.com/OiuBSMO.png)
